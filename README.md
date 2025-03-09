@@ -6,7 +6,7 @@ I'm a passionate software developer with a strong foundation in multiple program
 - 🌐 Web Development: HTML, CSS, JavaScript
 - 📚 Data Structures & Algorithms: Proficient in DSA with Java
 - 🗃️ Database Management: Experienced with MySQL and DBMS concepts
-- 🔧 Tools & Technologies: [Any other tools or frameworks you're using, e.g., React, Node.js, etc.]
+
 
 I'm always excited to learn more and build projects that can make an impact. Feel free to check out my repositories, collaborate on projects, or reach out for discussions!
 
